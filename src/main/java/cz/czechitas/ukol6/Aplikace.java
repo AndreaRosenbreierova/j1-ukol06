@@ -19,9 +19,8 @@ public class Aplikace extends JFrame {
     private JSpinner kraliciField;
     private JTextField pocetHlavField;
     private JTextField pocetNohouField;
-
-
     private JButton vypocitatButton;
+
 
     public static void main(String[] args) {
         FlatLightLaf.setup();
